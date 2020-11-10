@@ -1,1 +1,2 @@
-# I3D_TF2
+# Video Classification using I3D
+More details and checkpoints coming soon...
